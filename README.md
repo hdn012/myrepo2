@@ -1,3 +1,3 @@
 # myrepo2
 My **second** repo
-This is a **2nd** repo
+This is a **second** repo
