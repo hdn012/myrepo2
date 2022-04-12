@@ -5,7 +5,7 @@
 #'
 #' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
-# here is a regular code comment, that will remain as such
+# here is a regular code comment, that will remain as such.
 summary(VADeaths)
 
 #' Here's some more prose. I can use usual markdown syntax to make things
